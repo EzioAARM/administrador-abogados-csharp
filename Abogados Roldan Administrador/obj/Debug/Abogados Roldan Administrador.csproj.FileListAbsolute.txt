@@ -1,0 +1,10 @@
+c:\users\axel rodriguez\documents\visual studio 2015\Projects\Abogados Roldan Administrador\Abogados Roldan Administrador\bin\Debug\Abogados Roldan Administrador.exe.config
+c:\users\axel rodriguez\documents\visual studio 2015\Projects\Abogados Roldan Administrador\Abogados Roldan Administrador\bin\Debug\Abogados Roldan Administrador.exe
+c:\users\axel rodriguez\documents\visual studio 2015\Projects\Abogados Roldan Administrador\Abogados Roldan Administrador\bin\Debug\Abogados Roldan Administrador.pdb
+c:\users\axel rodriguez\documents\visual studio 2015\Projects\Abogados Roldan Administrador\Abogados Roldan Administrador\bin\Debug\Bunifu_UI_v1.52.dll
+c:\users\axel rodriguez\documents\visual studio 2015\Projects\Abogados Roldan Administrador\Abogados Roldan Administrador\obj\Debug\Abogados Roldan Administrador.csprojResolveAssemblyReference.cache
+c:\users\axel rodriguez\documents\visual studio 2015\Projects\Abogados Roldan Administrador\Abogados Roldan Administrador\obj\Debug\Abogados_Roldan_Administrador.Form1.resources
+c:\users\axel rodriguez\documents\visual studio 2015\Projects\Abogados Roldan Administrador\Abogados Roldan Administrador\obj\Debug\Abogados_Roldan_Administrador.Properties.Resources.resources
+c:\users\axel rodriguez\documents\visual studio 2015\Projects\Abogados Roldan Administrador\Abogados Roldan Administrador\obj\Debug\Abogados Roldan Administrador.csproj.GenerateResource.Cache
+c:\users\axel rodriguez\documents\visual studio 2015\Projects\Abogados Roldan Administrador\Abogados Roldan Administrador\obj\Debug\Abogados Roldan Administrador.exe
+c:\users\axel rodriguez\documents\visual studio 2015\Projects\Abogados Roldan Administrador\Abogados Roldan Administrador\obj\Debug\Abogados Roldan Administrador.pdb
